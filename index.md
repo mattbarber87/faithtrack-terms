@@ -19,8 +19,8 @@ You may need to create an account to access certain features of the App (e.g., u
 FaithTrack Premium is a monthly auto-renewing subscription that provides access to additional spiritual growth modules and enhanced features within the App.
 
 - Subscription Title: FaithTrack Premium
-- Length of Subscription: 1 month (auto-renewing)
-- Price: $2.99 USD per month (or equivalent in your local currency)
+- Length of Subscription: 1 month (auto-renewing) OR 1 year (auto-renewing) 
+- Price: $2.99 USD per month OR $29.99 per year (equivalent in your local currency)
 
 FaithTrack Premium subscriptions are billed and managed through your Apple ID account and are subject to Apple's In-App Purchase terms. Payment will be charged to your Apple ID account at confirmation of purchase. Subscriptions automatically renew unless auto-renew is turned off in your App Store Account Settings at least 24 hours before the end of the current subscription period. Your account will be charged for renewal within 24 hours prior to the end of the current period at the price of the selected subscription tier. You can manage your subscriptions and turn off auto-renewal by visiting your App Store Account Settings after purchase. Refunds, if any, are handled solely by Apple according to their policies. We reserve the right to change subscription fees upon reasonable notice, subject to App Store policies.
 
