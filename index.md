@@ -7,7 +7,7 @@ Welcome to FaithTrack! These Terms of Use (“Terms”) govern your access to an
 By downloading, accessing, or using the App, you agree to be bound by these Terms and our Privacy Policy (https://mattbarber87.github.io/faithtrack-privacy/). If you do not agree to these Terms, do not use the App. You acknowledge that these Terms are concluded between you and Matthew Barber only, and not with Apple Inc. ("Apple"). Matthew Barber, not Apple, is solely responsible for the App and its content.
 
 2. Eligibility
-You must be at least 9 years old (or the minimum legal age in your country) to use the App. By using the App, you represent and warrant that you meet this age requirement.
+You must be at least 13 years old (or the minimum legal age in your country) to use the App. By using the App, you represent and warrant that you meet this age requirement.
 
 3. License Grant (Scope of License)
 We grant you a limited, non-exclusive, non-transferable, revocable license to download, install, and use the App for your personal, non-commercial purposes on any Apple-branded products that you own or control and as permitted by the Usage Rules set forth in the Apple App Store Terms of Service.
@@ -16,6 +16,12 @@ We grant you a limited, non-exclusive, non-transferable, revocable license to do
 You may need to create an account to access certain features of the App (e.g., using Email/Password or Google Sign-In). You are responsible for maintaining the confidentiality of your account information and for all activities that occur under your account. You agree to provide accurate and complete information when creating your account and to update it as necessary. We reserve the right to suspend or terminate your account if any information provided is inaccurate, untrue, or incomplete, or if you violate these Terms. You are responsible for safeguarding your login credentials. Notify us immediately of any unauthorized use of your account.
 
 5. Subscriptions (FaithTrack Premium)
+FaithTrack Premium is a monthly auto-renewing subscription that provides access to additional spiritual growth modules and enhanced features within the App.
+
+- Subscription Title: FaithTrack Premium
+- Length of Subscription: 1 month (auto-renewing)
+- Price: $2.99 USD per month (or equivalent in your local currency)
+
 FaithTrack Premium subscriptions are billed and managed through your Apple ID account and are subject to Apple's In-App Purchase terms. Payment will be charged to your Apple ID account at confirmation of purchase. Subscriptions automatically renew unless auto-renew is turned off in your App Store Account Settings at least 24 hours before the end of the current subscription period. Your account will be charged for renewal within 24 hours prior to the end of the current period at the price of the selected subscription tier. You can manage your subscriptions and turn off auto-renewal by visiting your App Store Account Settings after purchase. Refunds, if any, are handled solely by Apple according to their policies. We reserve the right to change subscription fees upon reasonable notice, subject to App Store policies.
 
 6. Content and Intellectual Property
